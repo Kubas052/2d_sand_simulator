@@ -1,7 +1,7 @@
 # 2DSand simulator
 
 ## A Python-based particle simulation that creates realistic sand physics with interactive mouse placement.
-Features ✨
+## Features ✨
 - Realistic sand particle physics (falling, stacking, sliding)
 - Interactive sand placement with mouse
 ## Technologies Used 🛠️
